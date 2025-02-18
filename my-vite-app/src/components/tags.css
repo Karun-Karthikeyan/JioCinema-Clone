@@ -1,0 +1,18 @@
+.tags{
+    background-color: #000;
+    color: #ffffff;
+    display: flex;
+    column-gap: 12px;
+    padding: 10px 2.5%;
+}
+.tags-name{
+    width: fit-content;
+    background-color:  rgb(128, 128, 128,.3);
+    padding: 5px  10px;
+    font-size: 15px;
+    border-radius: 20px;
+}
+.tags-name:hover{
+    background-color: white;
+    color: black;
+}

@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.carousel-component {
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    overflow: hidden;
+    
+}
+
+.carousel-image {
+    width: 100%;
+    height: 100%; 
+    object-fit: cover; 
+    background-color: black;
+    overflow: hidden;
+    padding: 20px;
+}

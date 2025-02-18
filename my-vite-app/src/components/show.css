@@ -1,0 +1,15 @@
+.showsparent{
+    
+    width: 100%;
+    padding: 20px 2%;
+    display: flex;
+    column-gap: 5%;
+}
+.show{
+    width: 15%;
+    height: 400px;
+   
+}
+.show > img{
+    height: 100%;
+}
